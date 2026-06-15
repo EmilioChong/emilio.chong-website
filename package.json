@@ -1,0 +1,12 @@
+{
+  "name": "emilio.chong-website",
+  "version": "1.0.0",
+  "description": "Website for Emilio Chong",
+  "private": true,
+  "scripts": {
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
